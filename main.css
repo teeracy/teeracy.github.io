@@ -120,8 +120,10 @@ ul li {
 }
 
 #about {
+	width: 600px;
 	margin: 75px auto;
 	padding: 0px 204px;
+	text-align: justify;
 }
 
 #resume {
@@ -138,8 +140,9 @@ ul li {
 
 #about img {
 	display: block;
-	width: 100px;
-	margin: 15px auto;
+	width: 250px;
+	margin: 15px auto 30px auto;
+	border-radius: 100%;
 }
 
 h3{
@@ -185,10 +188,6 @@ h3{
 	font-weight: 700;
 }
 
-h4 {
-	font-size: 20px;
-	font-weight: bold;
-}
 
 p {
 	font-size: 14px;
