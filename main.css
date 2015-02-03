@@ -87,7 +87,6 @@ h2 {
 }
 
 a {
-	text-decoration: none;
 	color: inherit;
 }
 
@@ -120,10 +119,10 @@ ul li {
 }
 
 #about {
-	width: 600px;
+	width: 400px;
 	margin: 75px auto;
 	padding: 0px 204px;
-	text-align: justify;
+	text-align: center;
 }
 
 #resume {
