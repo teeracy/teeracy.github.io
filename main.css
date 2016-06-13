@@ -227,6 +227,29 @@ footer {
 	left: 12px;
 }
 
+@media (max-device-width: 600px) {
+	h1 {
+		text-align: center;
+	}
+
+	header {
+		height: 130px;
+	}
+
+	header .nav {
+		position: initial;
+		margin-top: 30px;
+		font-weight: 400;
+	}
+
+	.tagline {
+		position: initial;
+		display: block;
+		margin-top: -5px;
+		text-align: center;
+	}
+}
+
 @media (max-width: 600px) {
 	h1 {
 		text-align: center;
