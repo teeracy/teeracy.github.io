@@ -55,7 +55,7 @@ table {
 body {
 	background: #FAFAFA;
 	color: #333333;
-	font-family: Oswald;
+	font-family: 'Lato';
 }
 
 #container {
@@ -75,7 +75,7 @@ header {
 
 h1 {
 	font-size: 60px;
-	letter-spacing: 3px;
+	letter-spacing: -4px;
 	margin: 10px 0px -15px 20px;
 	font-weight: 700;
 }
@@ -106,7 +106,7 @@ ul {
 }
 
 ul li {
-	display: inline;
+	display: inline-block;
 }
 
 #content {
@@ -148,8 +148,7 @@ h3{
 	font-weight: 700;
 	font-size: 35px;
 	text-align: center;
-	margin: 50px 0px;
-	font-family: Oswald;
+	font-family: 'Lato';
 	text-transform: uppercase;
 }
 
@@ -194,7 +193,7 @@ p {
 }
 
 #connect {
-	margin: 100px auto;
+	margin: 50px auto;
 }
 
 #connect ul {
