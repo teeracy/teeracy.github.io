@@ -56,6 +56,7 @@ body {
 	background: #FAFAFA;
 	color: #333333;
 	font-family: 'Lato';
+	font-weight: 300;
 }
 
 #container {
@@ -110,7 +111,6 @@ ul li {
 }
 
 #content {
-	font-family: 'Open Sans';
 	display: block;
 	width: 100%;
 }
@@ -120,7 +120,7 @@ ul li {
 
 #about {
 	width: 400px;
-	margin: 75px auto;
+	margin: 0px auto 75px auto;
 	padding: 0px 204px;
 	text-align: center;
 }
@@ -142,6 +142,7 @@ ul li {
 	width: 250px;
 	margin: 15px auto 30px auto;
 	border-radius: 100%;
+	opacity: .95;
 }
 
 h3{
