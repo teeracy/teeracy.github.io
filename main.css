@@ -230,11 +230,11 @@ footer {
 @media (max-device-width: 600px) {
 	h1 {
 		text-align: center;
-		font-size: 90px;
+		font-size: 120px;
 	}
 
 	header {
-		height: 200px;
+		height: 220px;
 	}
 
 	header .nav {
@@ -244,7 +244,7 @@ footer {
 	}
 
 	header .nav a {
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 
 	.tagline {
@@ -252,7 +252,7 @@ footer {
 		display: block;
 		margin-top: -5px;
 		text-align: center;
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 
 	#about {
@@ -264,7 +264,7 @@ footer {
 	}
 
 	footer {
-		font-size: 1.5em;
+		font-size: 2.5em;
 	}
 
 }
