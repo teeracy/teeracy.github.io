@@ -228,9 +228,6 @@ footer {
 }
 
 @media (max-device-width: 600px) {
-	#container {
-		max-width: 700px;
-	}
 	h1 {
 		text-align: center;
 	}
@@ -251,6 +248,15 @@ footer {
 		margin-top: -5px;
 		text-align: center;
 	}
+
+	#about {
+		width: 90%;
+	}
+
+	#about img {
+		width: 500px;
+	}
+
 }
 
 @media (max-width: 600px) {
